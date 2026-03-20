@@ -1,5 +1,3 @@
-import static
-
 public class Juego {
     public static final int files = 6;
     public static final int columnes = 7;
